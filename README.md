@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/justjatinverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/justjatinverma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/din.com/in/justjatinverma/](https://www.linkedin.com/in/justjatinverma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="din.com/in/justjatinverma/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/justjatinverma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="din.com/in/justjatinverma/" height="30" width="40" /></a>
 <a href="https://justjatinverma.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://justjatinverma.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
