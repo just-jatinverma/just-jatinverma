@@ -1,3 +1,7 @@
+![Banner](./banner.gif)
+
+Image Credit: [pixeljeff](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
+
 <h1 align="center">Hi 👋, I'm Jatin Verma</h1>
 <h3 align="center">A passionate Full-Stack development student from India</h3>
 
